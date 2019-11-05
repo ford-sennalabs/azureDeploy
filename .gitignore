@@ -1,9 +1,9 @@
 
 .cache/
 coverage/
-dist/
 !dist/index.html
 node_modules/
+.idea/
 *.log
 
 # OS generated files
