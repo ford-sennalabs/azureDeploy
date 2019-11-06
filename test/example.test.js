@@ -5,6 +5,6 @@ import App from '../src/app.js';
 describe('With Enzyme', () => {
   it('App shows "Hello world"', () => {
     const app = shallow(<App />);
-    expect(app.find('h1').text()).toEqual('Hello1');
+    expect(app.find('h1').text()).toEqual('Hello1223ssk33');
   });
 });
